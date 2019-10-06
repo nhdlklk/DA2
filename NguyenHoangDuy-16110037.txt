@@ -1,0 +1,2 @@
+Đề tài :
+Viết chương trình soạn thảo văn bản (có các chức năng cơ bản tương tự NotePad hoặc WordPad của Windows)
