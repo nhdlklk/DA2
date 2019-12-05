@@ -1,0 +1,62 @@
+c:\users\adau\documents\visual studio 2010\Projects\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\bin\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.exe
+c:\users\adau\documents\visual studio 2010\Projects\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\bin\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.pdb
+c:\users\adau\documents\visual studio 2010\Projects\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.Properties.Resources.resources
+c:\users\adau\documents\visual studio 2010\Projects\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.csproj.GenerateResource.Cache
+c:\users\adau\documents\visual studio 2010\Projects\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.exe
+c:\users\adau\documents\visual studio 2010\Projects\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.pdb
+C:\Users\Adau\Documents\Visual Studio 2010\Projects\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.frmworkpad.resources
+C:\Users\Adau\Documents\Visual Studio 2010\Projects\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.frmtimkiem.resources
+C:\Users\Adau\Documents\Visual Studio 2010\Projects\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.csproj.ResolveComReference.cache
+C:\Users\Adau\Documents\Visual Studio 2010\Projects\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.frmhuongdan.resources
+C:\Users\Adau\Documents\Visual Studio 2010\Projects\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.ThongTin.resources
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.csproj.ResolveComReference.cache
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.frmworkpad.resources
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.frmhuongdan.resources
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.Properties.Resources.resources
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.ThongTin.resources
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.frmtimkiem.resources
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.csproj.GenerateResource.Cache
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\bin\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.exe
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\bin\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.pdb
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.exe
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.pdb
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Demo\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.csproj.ResolveComReference.cache
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Demo\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.exe
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Demo\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.pdb
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Demo\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\bin\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.exe
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Demo\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\bin\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.pdb
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Demo\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.frmworkpad.resources
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Demo\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.frmhuongdan.resources
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Demo\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.Properties.Resources.resources
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Demo\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.ThongTin.resources
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Demo\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.frmtimkiem.resources
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Demo\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.csproj.GenerateResource.Cache
+D:\TDT\Lap Trinh\Dot net C#\De Tai 60\Demo\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\bin\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.exe.config
+C:\Users\Admin\Desktop\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\bin\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.exe.config
+C:\Users\Admin\Desktop\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\bin\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.exe
+C:\Users\Admin\Desktop\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\bin\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.pdb
+C:\Users\Admin\Desktop\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.frmworkpad.resources
+C:\Users\Admin\Desktop\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.frmhuongdan.resources
+C:\Users\Admin\Desktop\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.Properties.Resources.resources
+C:\Users\Admin\Desktop\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.ThongTin.resources
+C:\Users\Admin\Desktop\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.frmtimkiem.resources
+C:\Users\Admin\Desktop\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.exe
+C:\Users\Admin\Desktop\De Tai 60\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.pdb
+C:\Users\Admin\Desktop\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\bin\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.exe.config
+C:\Users\Admin\Desktop\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\bin\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.exe
+C:\Users\Admin\Desktop\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\bin\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.pdb
+C:\Users\Admin\Desktop\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.frmworkpad.resources
+C:\Users\Admin\Desktop\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.frmhuongdan.resources
+C:\Users\Admin\Desktop\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.Properties.Resources.resources
+C:\Users\Admin\Desktop\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.ThongTin.resources
+C:\Users\Admin\Desktop\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.frmtimkiem.resources
+C:\Users\Admin\Desktop\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.exe
+C:\Users\Admin\Desktop\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\Chuong_Trinh_Soan_Thao_Van_Ban\obj\x86\Debug\Chuong_Trinh_Soan_Thao_Van_Ban.pdb
